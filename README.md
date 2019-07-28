@@ -8,11 +8,12 @@ Simple web to use as personal portfolio: https://silviaralcaraz.github.io/person
 - npm
 
 ## Execute this project
-
-"$ git clone https://github.com/silviaralcaraz/personal-portfolio/"
-"$ cd personal-portfolio"
-"$ npm install"
-"$ npm start"
+```
+$ git clone https://github.com/silviaralcaraz/personal-portfolio/
+$ cd personal-portfolio
+$ npm install
+$ npm start
+```
 
 ## Acknowledgments
 
