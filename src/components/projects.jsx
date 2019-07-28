@@ -8,8 +8,8 @@ export default class Projects extends Component {
 					<div className="colorlib-narrow-content">
 						<div className="row">
 							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-								<span className="heading-meta">Proyectos</span>
-								<h2 className="colorlib-heading animate-box">¿Qué hago?</h2>
+								<span className="heading-meta">Proyectos destacados</span>
+								<h2 className="colorlib-heading animate-box">Show me the code <i className="icon-search4"/></h2>
 							</div>
 						</div>
 
@@ -56,11 +56,7 @@ export default class Projects extends Component {
 
 						</div>
 
-						<div className="row">
-							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Cargar más<i className="icon-reload"/></a></p>
-							</div>
-						</div>
+
 					</div>
 				</section>
       </div>
