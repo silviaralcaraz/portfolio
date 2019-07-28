@@ -15,14 +15,14 @@ export default class Projects extends Component {
 
 						<div className="row">
 
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/flinkbwa_photo.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://www.github.com/silviaralcaraz/flinkbwa">FlinkBWA - 2019</a></h3>
 											<span>Big Data | Biotecnología | Trabajo de Fin de Grado (TFG)</span>
                                             <p>Paralelización del alineador de secuencias genéticas Burrows-Wheeler Aligner
-                                            (BWA) con la plataforma Big Data Apache Flink para mejorar su rendimiento en
+                                            con la plataforma Apache Flink para mejorar su rendimiento en
                                             términos de eficiencia.</p>
 											<p className="icon">
 												<span><a href="#"><i className="icon-data" />  Flink</a></span>
@@ -35,7 +35,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+							<div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
 								<div className="project" style={{backgroundImage: 'url(images/react_logo.png)'}}>
 									<div className="desc">
 										<div className="con">

@@ -33,16 +33,16 @@ export default class About extends Component {
     							<h3>Big Data</h3>
     						</div>
     					</div>
-    					<div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
+    					<div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
+    						<div class="services color-4">
+    							<span class="icon2"><i class="icon-server"></i></span>
+    							<h3>HPC</h3>
+    						</div>
+    					</div>
+                        <div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
     						<div class="services color-2">
     							<span class="icon2"><i class="icon-code-outline"></i></span>
     							<h3>IA</h3>
-    						</div>
-    					</div>
-    					<div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
-    						<div class="services color-4">
-    							<span class="icon2"><i class="icon-device-laptop"></i></span>
-    							<h3>Desarrollo</h3>
     						</div>
     					</div>
     				</div>
@@ -73,7 +73,7 @@ export default class About extends Component {
     							<h3>Viajes</h3>
     						</div>
     					</div>
-    				</div>                    
+    				</div>
 
 
             </div>
