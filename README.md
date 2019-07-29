@@ -9,7 +9,7 @@ Simple web to use as personal portfolio: https://silviaralcaraz.github.io/portfo
 
 ## Execute this project
 ```
-$ git clone https://github.com/silviaralcaraz/personal-portfolio/
+$ git clone https://github.com/silviaralcaraz/portfolio/
 $ cd personal-portfolio
 $ npm install
 $ npm start
