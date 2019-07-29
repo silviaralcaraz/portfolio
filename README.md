@@ -1,6 +1,6 @@
-# Personal-Portfolio
+# Portfolio
 
-Simple web to use as personal portfolio: https://silviaralcaraz.github.io/personal-portfolio.
+Simple web to use as personal portfolio: https://silviaralcaraz.github.io/portfolio.
 
 ## Requirements
 
