@@ -28,7 +28,7 @@ export default class Organizations extends Component {
             </div>
             <div className="row">
 
-                <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                     <div className="project" style={{backgroundImage: 'url(images/hashcode18.jpg)'}}>
                         <div className="desc">
                             <div className="con">
@@ -39,7 +39,7 @@ export default class Organizations extends Component {
                     </div>
                 </div>
 
-                <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+                <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
                     <div className="project" style={{backgroundImage: 'url(images/portasAbertas.jpg)'}}>
                         <div className="desc">
                             <div className="con">
@@ -50,16 +50,7 @@ export default class Organizations extends Component {
                     </div>
                 </div>
 
-                <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-                    <div className="project" style={{backgroundImage: 'url(images/teambuilding18.jpg)'}}>
-                        <div className="desc">
-                            <div className="con">
-                                <h3>Team Building 2018</h3>
-                                <span>Escola Técnica Superior de Enxeñería (ETSE)</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
 
             <div className="row">
@@ -75,18 +66,7 @@ export default class Organizations extends Component {
 
             <div className="row">
 
-                <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-                    <div className="project" style={{backgroundImage: 'url(images/hashcode19.jpg)'}}>
-                        <div className="desc">
-                            <div className="con">
-                                <h3>Hash Code 2019</h3>
-                                <span>Doutroxeito Coworking</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+                <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
                     <div className="project" style={{backgroundImage: 'url(images/ioextended19.jpg)'}}>
                         <div className="desc">
                             <div className="con">
@@ -97,7 +77,7 @@ export default class Organizations extends Component {
                     </div>
                 </div>
 
-                <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+                <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
                     <div className="project" style={{backgroundImage: 'url(images/birratech19.jpg)'}}>
                         <div className="desc">
                             <div className="con">
