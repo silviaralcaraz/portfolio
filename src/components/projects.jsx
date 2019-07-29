@@ -39,7 +39,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/react_logo.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://www.github.com/silviaralcaraz/personal-portfolio">Personal portfolio - 2019</a></h3>
+											<h3><a href="https://www.github.com/silviaralcaraz/portfolio">Portfolio - 2019</a></h3>
 											<span>Web</span>
                                             <p>Se trata de esta misma web que sirve como Portfolio personal y a su vez
                                             ayudó a tener contacto de nuevo con el mundo del Front-end.</p>
