@@ -13,13 +13,12 @@ export default class Organizations extends Component {
                                 <div className="about-desc">
                                     <span className="heading-meta">Organizaciones</span>
                                     <h2 className="colorlib-heading">¿Qué hago?</h2>
-                                    <p>Desde finales del año 2017 soy <b>co-organizadora</b> del <i>Google Developers Group</i>
+                                    <p align="justify">Desde finales del año 2017 soy <b>co-organizadora</b> del <i>Google Developers Group</i>
                                     de Santiago de Compostela (<b><a href="http://meetup.com/es-ES/gdgsantiagoes">GDG Santiago</a></b>).</p>
-                                    <p>Los GDGs son organizaciones sin ánimo de lucro patrocinadas por <i>Google</i> que tienen por
+                                    <p align="justify">Los GDGs son organizaciones sin ánimo de lucro patrocinadas por <i>Google</i> que tienen por
                                     objetivo compartir conocimiento mediante todo tipo de eventos y crear comunidad.</p>
-                                    <p>Personalmente, la experiencia de organizar y asistir a eventos <i>tech</i> me ha dado la oportunidad de aprender
-                                    de otros profesionales, mejorar no sólo mis habilidades técnicas y conocer a la comunidad,
-                                    lo que me parece verdaderamente enriquecedor.</p>
+                                    <p align="justify">A nivel personal organizar y asistir a eventos <i>tech</i> me ha dado la oportunidad de aprender
+                                    de otros profesionales y mejorar no sólo mis habilidades técnicas, además de poder conocer a la comunidad.</p>
                                 </div>
                             </div>
                         </div>

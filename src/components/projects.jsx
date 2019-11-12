@@ -28,7 +28,7 @@ export default class Projects extends Component {
 												<span><a href="#"><i className="icon-data" />  Flink</a></span>
 												<span><a href="#"><i className="icon-server" /> Hadoop</a></span>
                                                 <span><a href="#"><i className="icon-code" /> Java</a></span>
-                                                <span><a href="#"><i className="icon-git" /> Git</a></span>
+                                                {/*<span><a href="#"><i className="icon-git" /> Git</a></span>*/}
 											</p>
 										</div>
 									</div>
@@ -47,7 +47,7 @@ export default class Projects extends Component {
 												<span><a href="#"><i className="icon-html-five"/> HTML</a></span>
 												<span><a href="#"><i className="icon-css3" /> CSS</a></span>
 												<span><a href="#"><i className="icon-code" /> React</a></span>
-                                                <span><a href="#"><i className="icon-git" /> Git</a></span>
+                                                {/*<span><a href="#"><i className="icon-git" /> Git</a></span>*/}
 											</p>
 										</div>
 									</div>

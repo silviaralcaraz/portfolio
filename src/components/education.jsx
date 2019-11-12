@@ -15,18 +15,48 @@ export default class Education extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <div className="timeline-entry-inner">
+                    <div className="timeline-icon color-1">
+                      <i className="icon-bulb" />
+                    </div>
+                    <div className="timeline-label">
+                      <h2>CiTIUS: becaria de colaboración <span>noviembre 2019 - actualidad</span></h2>
+                      <p><i className="icon-location" aria-hidden="true"/> Santiago de Compostela (Galicia)</p>
+                      <p align="justify">Beca del Ministerio de Educación y Formación Profesional para colaborar con el
+                      grupo de investigación del CiTIUS (Centro Singular de Investigación en Tecnoloxías Intelixentes)
+                      dedicado al proyecto LiDAR.</p>
+                    </div>
+                  </div>
+                </article>
+
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                  <div className="timeline-entry-inner">
+                    <div className="timeline-icon color-4">
+                      <i className="icon-study" />
+                    </div>
+                    <div className="timeline-label">
+                      <h2>Universidade de Santiago de Compostela <span>2019-2020</span></h2>
+                      <p>Máster en Computación de Altas Prestaciones (HPC).</p>
+                    </div>
+                  </div>
+                </article>
+
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
                         <i className="icon-server" />
                       </div>
                       <div className="timeline-label">
-                        <h2>HP CDS: estudiante en prácticas <span>junio-julio 2018</span></h2>
+                        <h2>Hewlett Packard CDS: estudiante en prácticas <span>junio-julio 2018</span></h2>
+                        <p><i className="icon-location" aria-hidden="true"/> Santiago de Compostela (Galicia)</p>
                         <p>Tareas de administración de sistemas y redes en entorno Windows para proyecto
                         del SERGAS.</p>
                       </div>
                     </div>
                   </article>
+
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
@@ -38,6 +68,7 @@ export default class Education extends Component {
                       </div>
                     </div>
                   </article>
+
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
@@ -49,6 +80,7 @@ export default class Education extends Component {
                       </div>
                     </div>
                   </article>
+
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-none">
