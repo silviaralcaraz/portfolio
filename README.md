@@ -13,6 +13,9 @@ $ git clone https://github.com/silviaralcaraz/portfolio/
 $ cd personal-portfolio
 $ npm install
 $ npm start
+
+To applicate changes execute after push:
+$ npm run deploy
 ```
 
 ## Acknowledgments
